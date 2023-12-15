@@ -1,0 +1,2 @@
+# libUtilCpp
+C++ utilities library.
